@@ -25,13 +25,11 @@ def inspect_csv_files(folder_path):
     print("=" * 60)
 
     for file_path in csv_files:
-        print(f"\n📄 FILE: {file_path.name}")
+        print(f"\n FILE: {file_path.name}")
         
         try:
-            # Read just the first 5 rows to save memory and speed up the process
             df = pd.read_csv(file_path, nrows=5)
             
-            # Print Columns
             print("\nCOLUMNS:")
             print(df.columns.tolist())
             

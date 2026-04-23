@@ -1,0 +1,649 @@
+SchoolYear,DistrictName,StudentGroupType,StudentGroup,GradeLevel,TestAdministration,TestSubject,Suppression,Count of Students Expected to Test,CountMetStandard,PercentMetStandard,PercentLevel1,PercentLevel2,PercentLevel3,PercentLevel4,PercentMetTestedOnly,Percent No Score,Percent Participation
+2023-24,Walla Walla Public Schools,Foster,Foster Care,03,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Foster Care,03,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Foster Care,04,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Foster Care,04,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Foster Care,08,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Foster Care,08,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Foster Care,10,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Foster Care,10,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Foster Care,All Grades,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Foster Care,All Grades,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,03,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,03,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,All,All Students,03,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,All,All Students,03,SBAC,Math,,350,157,44.90%,0.314285714,0.217142857,0.22,0.228571429,0.457725948,0.02,0.98
+2023-24,Walla Walla Public Schools,All,All Students,03,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,All,All Students,03,SBAC,ELA,,350,121,34.60%,0.411428571,0.222857143,0.171428571,0.174285714,0.352769679,0.02,0.98
+2023-24,Walla Walla Public Schools,All,All Students,04,SBAC,ELA,,376,139,37.00%,0.409574468,0.191489362,0.180851064,0.188829787,0.380821918,0.029255319,0.970744681
+2023-24,Walla Walla Public Schools,All,All Students,04,SBAC,Math,,376,165,43.90%,0.255319149,0.276595745,0.191489362,0.247340426,0.452054795,0.029255319,0.970744681
+2023-24,Walla Walla Public Schools,All,All Students,04,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,All,All Students,04,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,All,All Students,05,SBAC,ELA,,389,170,43.70%,0.321336761,0.208226221,0.233933162,0.203084833,0.45212766,0.033419023,0.966580977
+2023-24,Walla Walla Public Schools,All,All Students,05,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,All,All Students,05,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,All,All Students,05,SBAC,Math,,389,151,38.80%,0.329048843,0.249357326,0.167095116,0.221079692,0.401595745,0.033419023,0.966580977
+2023-24,Walla Walla Public Schools,All,All Students,06,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,All,All Students,06,SBAC,ELA,,374,139,37.20%,0.328877005,0.237967914,0.232620321,0.139037433,0.396011396,0.061497326,0.938502674
+2023-24,Walla Walla Public Schools,All,All Students,06,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,All,All Students,06,SBAC,Math,,374,115,30.80%,0.401069519,0.237967914,0.157754011,0.14973262,0.324858757,0.053475936,0.946524064
+2023-24,Walla Walla Public Schools,All,All Students,07,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,All,All Students,07,SBAC,Math,,368,127,34.50%,0.385869565,0.241847826,0.154891304,0.190217391,0.354748603,0.027173913,0.972826087
+2023-24,Walla Walla Public Schools,All,All Students,07,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,All,All Students,07,SBAC,ELA,,367,166,45.20%,0.313351499,0.198910082,0.280653951,0.171662125,0.468926554,0.035422343,0.964577657
+2023-24,Walla Walla Public Schools,All,All Students,08,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,All,All Students,08,SBAC,Math,,370,114,30.80%,0.421621622,0.210810811,0.140540541,0.167567568,0.327586207,0.059459459,0.940540541
+2023-24,Walla Walla Public Schools,All,All Students,08,SBAC,ELA,,369,159,43.10%,0.295392954,0.211382114,0.281842818,0.149051491,0.459537572,0.062330623,0.937669377
+2023-24,Walla Walla Public Schools,All,All Students,08,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,All,All Students,10,SBAC,Math,,464,128,27.60%,0.435344828,0.206896552,0.161637931,0.114224138,0.300469484,0.081896552,0.918103448
+2023-24,Walla Walla Public Schools,All,All Students,10,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,All,All Students,10,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,All,All Students,10,SBAC,ELA,,463,267,57.70%,0.177105832,0.172786177,0.30237581,0.274298056,0.622377622,0.073434125,0.926565875
+2023-24,Walla Walla Public Schools,All,All Students,All Grades,AIM,ELA,,31,5,16.10%,0.35483871,0.483870968,0.161290323,0.0,0.161290323,0.0,1.0
+2023-24,Walla Walla Public Schools,All,All Students,All Grades,SBAC,ELA,,"2,688","1,161",43.20%,0.316964286,0.204985119,0.242931548,0.188988095,0.452808112,0.046130952,0.953869048
+2023-24,Walla Walla Public Schools,All,All Students,All Grades,AIM,Math,,31,5,16.10%,0.096774194,0.741935484,0.129032258,0.032258065,0.161290323,0.0,1.0
+2023-24,Walla Walla Public Schools,All,All Students,All Grades,SBAC,Math,,"2,691",957,35.60%,0.365663322,0.233742103,0.169825344,0.185804534,0.372373541,0.044964697,0.955035303
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,03,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,03,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,03,SBAC,Math,,88,13,14.80%,0.636363636,0.215909091,0.102272727,0.045454545,0.147727273,0.0,1.0
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,03,SBAC,ELA,,88,10,11.40%,0.659090909,0.227272727,0.102272727,0.011363636,0.113636364,0.0,1.0
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,04,SBAC,ELA,,88,7,8.00%,0.715909091,0.193181818,0.079545455,0.0,0.08045977,0.011363636,0.988636364
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,04,SBAC,Math,,88,12,13.60%,0.465909091,0.386363636,0.079545455,0.056818182,0.137931034,0.011363636,0.988636364
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,05,SBAC,ELA,<4%,,,4.40%,0.753623188,0.173913043,0.028985507,0.014492754,0.044776119,0.028985507,
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,05,SBAC,Math,,69,4,5.80%,0.68115942,0.231884058,0.014492754,0.043478261,0.059701493,0.028985507,0.971014493
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,06,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,06,SBAC,Math,<5%,,,<5%,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,06,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,06,SBAC,ELA,<5%,,,<5%,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,07,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,07,SBAC,ELA,,50,6,12.00%,0.58,0.28,0.12,0.0,0.12244898,0.02,0.98
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,07,SBAC,Math,<6%,,,6.00%,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,07,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,08,SBAC,Math,<5%,,,<5%,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,08,SBAC,ELA,<5%,,,<5%,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,10,SBAC,Math,<6%,,,<6%,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,10,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,10,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,10,SBAC,ELA,,48,4,8.30%,0.479166667,0.25,0.083333333,0.0,0.102564103,0.1875,0.8125
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,All Grades,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,All Grades,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,All Grades,SBAC,ELA,,455,32,7.00%,0.681318681,0.204395604,0.065934066,0.004395604,0.073563218,0.043956044,0.956043956
+2023-24,Walla Walla Public Schools,ELL,English Language Learners,All Grades,SBAC,Math,,456,35,7.70%,0.668859649,0.206140351,0.048245614,0.028508772,0.080645161,0.048245614,0.951754386
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,03,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,03,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,03,SBAC,Math,,262,144,55.00%,0.20610687,0.217557252,0.259541985,0.290076336,0.564705882,0.026717557,0.973282443
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,03,SBAC,ELA,,262,111,42.40%,0.328244275,0.221374046,0.194656489,0.229007634,0.435294118,0.026717557,0.973282443
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,04,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,04,SBAC,ELA,,288,132,45.80%,0.315972222,0.190972222,0.211805556,0.246527778,0.474820144,0.034722222,0.965277778
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,04,SBAC,Math,,288,153,53.10%,0.190972222,0.243055556,0.225694444,0.305555556,0.550359712,0.034722222,0.965277778
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,04,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,05,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,05,SBAC,Math,,320,147,45.90%,0.253125,0.253125,0.2,0.259375,0.475728155,0.034375,0.965625
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,05,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,05,SBAC,ELA,Cross Student Group - Top/Bottom,,,52.20%,0.228125,0.215625,0.278125,0.24375,0.540453074,0.034375,0.965625
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,06,SBAC,Math,Cross Student Group - Top/Bottom,,,35.70%,0.322884013,0.269592476,0.181818182,0.175548589,0.376237624,0.05015674,0.94984326
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,06,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,06,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,06,SBAC,ELA,Cross Student Group - Top/Bottom,,,43.60%,0.250783699,0.253918495,0.272727273,0.163009404,0.463333333,0.059561129,0.940438871
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,07,SBAC,ELA,,317,160,50.50%,0.271293375,0.186119874,0.305993691,0.19873817,0.524590164,0.03785489,0.96214511
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,07,SBAC,Math,Cross Student Group - Top/Bottom,,,39.00%,0.339622642,0.242138365,0.169811321,0.220125786,0.401294498,0.028301887,0.971698113
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,08,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,08,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,08,SBAC,ELA,Cross Student Group - Top/Bottom,,,50.30%,0.21474359,0.217948718,0.326923077,0.176282051,0.537671233,0.064102564,0.935897436
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,08,SBAC,Math,Cross Student Group - Top/Bottom,,,35.80%,0.3514377,0.230031949,0.162939297,0.194888179,0.380952381,0.060702875,0.939297125
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,10,SBAC,Math,Cross Student Group - Top/Bottom,,,30.80%,0.404819277,0.221686747,0.180722892,0.127710843,0.329896907,0.065060241,0.934939759
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,10,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,10,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,10,SBAC,ELA,,415,263,63.40%,0.142168675,0.163855422,0.327710843,0.306024096,0.674358974,0.060240964,0.939759036
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,All Grades,AIM,Math,<14%,,,13.60%,,,,,,,
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,All Grades,AIM,ELA,Cross Student Group - N<10,,,22.70%,0.318181818,0.454545455,0.227272727,0.0,0.227272727,0.0,1.0
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,All Grades,SBAC,ELA,,"2,233","1,129",50.60%,0.242722794,0.20510524,0.278996865,0.226600985,0.530295914,0.046574116,0.953425884
+2023-24,Walla Walla Public Schools,ELL,Non-English Language Learners,All Grades,SBAC,Math,,"2,235",922,41.30%,0.303803132,0.239373602,0.194630872,0.217897092,0.43164794,0.044295302,0.955704698
+2023-24,Walla Walla Public Schools,FRL,Low-Income,03,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Low-Income,03,SBAC,Math,,250,86,34.40%,0.4,0.248,0.188,0.156,0.346774194,0.008,0.992
+2023-24,Walla Walla Public Schools,FRL,Low-Income,03,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Low-Income,03,SBAC,ELA,,250,64,25.60%,0.496,0.24,0.152,0.104,0.258064516,0.008,0.992
+2023-24,Walla Walla Public Schools,FRL,Low-Income,04,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Low-Income,04,SBAC,ELA,,276,75,27.20%,0.489130435,0.206521739,0.141304348,0.130434783,0.280898876,0.032608696,0.967391304
+2023-24,Walla Walla Public Schools,FRL,Low-Income,04,SBAC,Math,,276,96,34.80%,0.304347826,0.315217391,0.177536232,0.170289855,0.359550562,0.032608696,0.967391304
+2023-24,Walla Walla Public Schools,FRL,Low-Income,04,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Low-Income,05,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Low-Income,05,SBAC,ELA,,278,96,34.50%,0.395683453,0.230215827,0.223021583,0.122302158,0.355555556,0.028776978,0.971223022
+2023-24,Walla Walla Public Schools,FRL,Low-Income,05,SBAC,Math,,278,81,29.10%,0.410071942,0.269784173,0.147482014,0.143884892,0.3,0.028776978,0.971223022
+2023-24,Walla Walla Public Schools,FRL,Low-Income,05,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Low-Income,06,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Low-Income,06,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Low-Income,06,SBAC,ELA,,268,74,27.60%,0.414179104,0.246268657,0.197761194,0.078358209,0.294820717,0.063432836,0.936567164
+2023-24,Walla Walla Public Schools,FRL,Low-Income,06,SBAC,Math,,268,53,19.80%,0.485074627,0.264925373,0.126865672,0.070895522,0.208661417,0.052238806,0.947761194
+2023-24,Walla Walla Public Schools,FRL,Low-Income,07,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Low-Income,07,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Low-Income,07,SBAC,ELA,,268,97,36.20%,0.380597015,0.21641791,0.246268657,0.115671642,0.377431907,0.041044776,0.958955224
+2023-24,Walla Walla Public Schools,FRL,Low-Income,07,SBAC,Math,,269,70,26.00%,0.449814126,0.256505576,0.133828996,0.126394052,0.269230769,0.033457249,0.966542751
+2023-24,Walla Walla Public Schools,FRL,Low-Income,08,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Low-Income,08,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Low-Income,08,SBAC,ELA,,268,88,32.80%,0.358208955,0.246268657,0.23880597,0.089552239,0.352,0.067164179,0.932835821
+2023-24,Walla Walla Public Schools,FRL,Low-Income,08,SBAC,Math,,269,58,21.60%,0.505576208,0.215613383,0.115241636,0.100371747,0.23015873,0.063197026,0.936802974
+2023-24,Walla Walla Public Schools,FRL,Low-Income,10,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Low-Income,10,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Low-Income,10,SBAC,ELA,,307,144,46.90%,0.25732899,0.19218241,0.306188925,0.16286645,0.510638298,0.081433225,0.918566775
+2023-24,Walla Walla Public Schools,FRL,Low-Income,10,SBAC,Math,,307,53,17.30%,0.537459283,0.201954397,0.127035831,0.045602606,0.189285714,0.087947883,0.912052117
+2023-24,Walla Walla Public Schools,FRL,Low-Income,All Grades,AIM,ELA,Cross Student Group - N<10,,,17.40%,0.304347826,0.52173913,0.173913043,0.0,0.173913043,0.0,1.0
+2023-24,Walla Walla Public Schools,FRL,Low-Income,All Grades,AIM,Math,Cross Student Group - N<10,,,21.70%,0.086956522,0.695652174,0.173913043,0.043478261,0.217391304,0.0,
+2023-24,Walla Walla Public Schools,FRL,Low-Income,All Grades,SBAC,Math,,"1,917",497,25.90%,0.443401148,0.25247783,0.144496609,0.11476265,0.271436374,0.044861763,0.955138237
+2023-24,Walla Walla Public Schools,FRL,Low-Income,All Grades,SBAC,ELA,,"1,915",638,33.30%,0.395300261,0.224543081,0.217232376,0.115926893,0.349589041,0.046997389,0.953002611
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,03,SBAC,Math,,100,71,71.00%,0.1,0.14,0.3,0.41,0.747368421,0.05,0.95
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,03,SBAC,ELA,,100,57,57.00%,0.2,0.18,0.22,0.35,0.6,0.05,0.95
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,04,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,04,SBAC,Math,,100,69,69.00%,0.12,0.17,0.23,0.46,0.704081633,0.02,0.98
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,04,SBAC,ELA,,100,64,64.00%,0.19,0.15,0.29,0.35,0.653061224,0.02,0.98
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,04,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,05,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,05,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,05,SBAC,Math,,111,70,63.10%,0.126126126,0.198198198,0.216216216,0.414414414,0.660377358,0.045045045,0.954954955
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,05,SBAC,ELA,,111,74,66.70%,0.135135135,0.153153153,0.261261261,0.405405405,0.698113208,0.045045045,0.954954955
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,06,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,06,SBAC,Math,,106,62,58.50%,0.188679245,0.169811321,0.235849057,0.349056604,0.62,0.056603774,0.943396226
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,06,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,06,SBAC,ELA,,106,65,61.30%,0.113207547,0.216981132,0.320754717,0.29245283,0.65,0.056603774,0.943396226
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,07,SBAC,ELA,,99,69,69.70%,0.131313131,0.151515152,0.373737374,0.323232323,0.711340206,0.02020202,0.97979798
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,07,SBAC,Math,,99,57,57.60%,0.212121212,0.202020202,0.212121212,0.363636364,0.581632653,0.01010101,0.98989899
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,08,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,08,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,08,SBAC,ELA,,101,71,70.30%,0.128712871,0.118811881,0.396039604,0.306930693,0.739583333,0.04950495,0.95049505
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,08,SBAC,Math,,101,56,55.50%,0.198019802,0.198019802,0.207920792,0.346534653,0.583333333,0.04950495,0.95049505
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,10,SBAC,Math,,157,75,47.80%,0.23566879,0.21656051,0.229299363,0.248407643,0.51369863,0.070063694,0.929936306
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,10,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,10,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,10,SBAC,ELA,,156,123,78.90%,0.019230769,0.134615385,0.294871795,0.493589744,0.836734694,0.057692308,0.942307692
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,All Grades,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,All Grades,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,All Grades,SBAC,ELA,,773,523,67.70%,0.122897801,0.156532988,0.306597671,0.369987063,0.707713126,0.043984476,0.956015524
+2023-24,Walla Walla Public Schools,FRL,Non-Low Income,All Grades,SBAC,Math,,774,460,59.40%,0.173126615,0.187338501,0.23255814,0.361757106,0.622462788,0.045219638,0.954780362
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,03,SBAC,ELA,Cross Student Group - N<10,,,34.80%,0.408045977,0.224137931,0.172413793,0.175287356,0.35483871,0.020114943,0.979885057
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,03,SBAC,Math,Cross Student Group - N<10,,,45.10%,0.310344828,0.218390805,0.221264368,0.229885057,0.460410557,0.020114943,0.979885057
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,04,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,04,SBAC,ELA,Cross Student Group - N<10,,,37.30%,0.404825737,0.193029491,0.18230563,0.190348525,0.383977901,0.029490617,0.970509383
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,04,SBAC,Math,Cross Student Group - N<10,,,44.20%,0.252010724,0.27613941,0.193029491,0.249329759,0.455801105,0.029490617,0.970509383
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,04,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,05,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,05,SBAC,ELA,,389,170,43.70%,0.321336761,0.208226221,0.233933162,0.203084833,0.45212766,0.033419023,0.966580977
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,05,SBAC,Math,,389,151,38.80%,0.329048843,0.249357326,0.167095116,0.221079692,0.401595745,0.033419023,0.966580977
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,05,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,06,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,06,SBAC,ELA,,374,139,37.20%,0.328877005,0.237967914,0.232620321,0.139037433,0.396011396,0.061497326,0.938502674
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,06,SBAC,Math,,374,115,30.80%,0.401069519,0.237967914,0.157754011,0.14973262,0.324858757,0.053475936,0.946524064
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,06,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,07,SBAC,ELA,,367,166,45.20%,0.313351499,0.198910082,0.280653951,0.171662125,0.468926554,0.035422343,0.964577657
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,07,SBAC,Math,,368,127,34.50%,0.385869565,0.241847826,0.154891304,0.190217391,0.354748603,0.027173913,0.972826087
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,07,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,07,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,08,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,08,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,08,SBAC,ELA,Cross Student Group - N<10,,,43.20%,0.296195652,0.211956522,0.282608696,0.149456522,0.459537572,0.059782609,0.940217391
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,08,SBAC,Math,Cross Student Group - N<10,,,30.90%,0.422764228,0.211382114,0.140921409,0.16802168,0.327586207,0.056910569,0.943089431
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,10,SBAC,Math,Cross Student Group - N<10,,,27.80%,0.431670282,0.20824295,0.162689805,0.114967462,0.302600473,0.082429501,0.917570499
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,10,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,10,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,10,SBAC,ELA,Cross Student Group - N<10,,,57.80%,0.173913043,0.173913043,0.302173913,0.276086957,0.624413146,0.073913043,0.926086957
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,All Grades,AIM,ELA,,,,16.10%,0.35483871,0.483870968,0.161290323,0.0,0.161290323,0.0,1.0
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,All Grades,AIM,Math,,,,16.10%,0.096774194,0.741935484,0.129032258,0.032258065,0.161290323,0.0,1.0
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,All Grades,SBAC,ELA,Cross Student Group - N<10,,,43.30%,0.3154162,0.205673759,0.243374393,0.189622994,0.453834116,0.045912654,0.954087346
+2023-24,Walla Walla Public Schools,Foster,Non-Foster Care,All Grades,SBAC,Math,Cross Student Group - N<10,,,35.70%,0.364280388,0.234153617,0.170395227,0.186428039,0.3735363,0.044742729,0.955257271
+2023-24,Walla Walla Public Schools,Gender,Female,03,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Female,03,SBAC,ELA,Cross Student Group - N<10,,,35.80%,0.419753086,0.209876543,0.209876543,0.148148148,0.3625,0.012345679,0.987654321
+2023-24,Walla Walla Public Schools,Gender,Female,03,SBAC,Math,Cross Student Group - N<10,,,39.50%,0.388888889,0.203703704,0.228395062,0.166666667,0.4,0.012345679,0.987654321
+2023-24,Walla Walla Public Schools,Gender,Female,03,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Female,04,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Female,04,SBAC,ELA,Cross Student Group - N<10,,,45.40%,0.349726776,0.180327869,0.191256831,0.262295082,0.461111111,0.016393443,0.983606557
+2023-24,Walla Walla Public Schools,Gender,Female,04,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Female,04,SBAC,Math,Cross Student Group - N<10,,,46.40%,0.25136612,0.267759563,0.213114754,0.25136612,0.472222222,0.016393443,0.983606557
+2023-24,Walla Walla Public Schools,Gender,Female,05,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Female,05,SBAC,ELA,,205,97,47.30%,0.268292683,0.248780488,0.23902439,0.234146341,0.477832512,0.009756098,0.990243902
+2023-24,Walla Walla Public Schools,Gender,Female,05,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Female,05,SBAC,Math,,205,84,41.00%,0.365853659,0.214634146,0.165853659,0.243902439,0.413793103,0.009756098,0.990243902
+2023-24,Walla Walla Public Schools,Gender,Female,06,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Female,06,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Female,06,SBAC,Math,,183,51,27.90%,0.431693989,0.25136612,0.163934426,0.114754098,0.289772727,0.038251366,0.961748634
+2023-24,Walla Walla Public Schools,Gender,Female,06,SBAC,ELA,,183,76,41.50%,0.229508197,0.300546448,0.267759563,0.147540984,0.439306358,0.054644809,0.945355191
+2023-24,Walla Walla Public Schools,Gender,Female,07,SBAC,ELA,,171,88,51.50%,0.269005848,0.175438596,0.30994152,0.204678363,0.536585366,0.040935673,0.959064327
+2023-24,Walla Walla Public Schools,Gender,Female,07,SBAC,Math,,171,52,30.40%,0.421052632,0.239766082,0.14619883,0.157894737,0.315151515,0.035087719,0.964912281
+2023-24,Walla Walla Public Schools,Gender,Female,08,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Female,08,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Female,08,SBAC,ELA,,172,78,45.40%,0.25,0.244186047,0.290697674,0.162790698,0.478527607,0.052325581,0.947674419
+2023-24,Walla Walla Public Schools,Gender,Female,08,SBAC,Math,,172,51,29.70%,0.453488372,0.197674419,0.13372093,0.162790698,0.312883436,0.052325581,0.947674419
+2023-24,Walla Walla Public Schools,Gender,Female,10,SBAC,ELA,,242,150,62.00%,0.165289256,0.157024793,0.314049587,0.305785124,0.657894737,0.05785124,0.94214876
+2023-24,Walla Walla Public Schools,Gender,Female,10,SBAC,Math,,243,67,27.60%,0.444444444,0.21399177,0.160493827,0.115226337,0.295154185,0.065843621,0.934156379
+2023-24,Walla Walla Public Schools,Gender,Female,10,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Female,10,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Female,All Grades,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Female,All Grades,SBAC,ELA,Cross Student Group - N<10,,,47.80%,0.271623672,0.214719272,0.262518968,0.215477997,0.495672699,0.035660091,0.964339909
+2023-24,Walla Walla Public Schools,Gender,Female,All Grades,SBAC,Math,Cross Student Group - N<10,,,34.40%,0.394996209,0.226686884,0.172100076,0.172100076,0.356357928,0.034116755,0.965883245
+2023-24,Walla Walla Public Schools,Gender,Female,All Grades,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Gender X,03,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Gender X,03,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Gender X,04,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Gender X,04,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Gender X,10,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Gender X,10,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Gender X,All Grades,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Gender X,All Grades,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Male,03,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Male,03,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Male,03,SBAC,ELA,,187,63,33.70%,0.406417112,0.229946524,0.139037433,0.197860963,0.346153846,0.026737968,0.973262032
+2023-24,Walla Walla Public Schools,Gender,Male,03,SBAC,Math,,187,92,49.20%,0.251336898,0.229946524,0.20855615,0.28342246,0.505494505,0.026737968,0.973262032
+2023-24,Walla Walla Public Schools,Gender,Male,04,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Male,04,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Male,04,SBAC,ELA,,192,55,28.70%,0.46875,0.203125,0.166666667,0.119791667,0.298913043,0.041666667,0.958333333
+2023-24,Walla Walla Public Schools,Gender,Male,04,SBAC,Math,,192,79,41.20%,0.260416667,0.286458333,0.166666667,0.244791667,0.429347826,0.041666667,0.958333333
+2023-24,Walla Walla Public Schools,Gender,Male,05,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Male,05,SBAC,Math,,184,67,36.40%,0.288043478,0.288043478,0.168478261,0.195652174,0.387283237,0.059782609,0.940217391
+2023-24,Walla Walla Public Schools,Gender,Male,05,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Male,05,SBAC,ELA,,184,73,39.70%,0.380434783,0.163043478,0.22826087,0.168478261,0.421965318,0.059782609,0.940217391
+2023-24,Walla Walla Public Schools,Gender,Male,06,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Male,06,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Male,06,SBAC,Math,,191,64,33.50%,0.371727749,0.22513089,0.151832461,0.183246073,0.359550562,0.068062827,0.931937173
+2023-24,Walla Walla Public Schools,Gender,Male,06,SBAC,ELA,,191,63,33.00%,0.42408377,0.178010471,0.19895288,0.130890052,0.353932584,0.068062827,0.931937173
+2023-24,Walla Walla Public Schools,Gender,Male,07,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Male,07,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Male,07,SBAC,ELA,,196,78,39.80%,0.352040816,0.219387755,0.255102041,0.142857143,0.410526316,0.030612245,0.969387755
+2023-24,Walla Walla Public Schools,Gender,Male,07,SBAC,Math,,197,75,38.10%,0.355329949,0.243654822,0.162436548,0.218274112,0.388601036,0.020304569,0.979695431
+2023-24,Walla Walla Public Schools,Gender,Male,08,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Male,08,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Male,08,SBAC,ELA,,197,81,41.10%,0.335025381,0.182741117,0.274111675,0.137055838,0.442622951,0.07106599,0.92893401
+2023-24,Walla Walla Public Schools,Gender,Male,08,SBAC,Math,,198,63,31.80%,0.393939394,0.222222222,0.146464646,0.171717172,0.340540541,0.065656566,0.934343434
+2023-24,Walla Walla Public Schools,Gender,Male,10,SBAC,Math,Cross Student Group - N<10,,,27.60%,0.428571429,0.202764977,0.161290323,0.115207373,0.304568528,0.092165899,0.907834101
+2023-24,Walla Walla Public Schools,Gender,Male,10,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Male,10,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Gender,Male,10,SBAC,ELA,Cross Student Group - N<10,,,53.50%,0.193548387,0.188940092,0.294930876,0.239631336,0.582914573,0.082949309,0.917050691
+2023-24,Walla Walla Public Schools,Gender,Male,All Grades,SBAC,Math,,"1,366",500,36.60%,0.338213763,0.241581259,0.166178624,0.199853587,0.386996904,0.054172767,0.945827233
+2023-24,Walla Walla Public Schools,Gender,Male,All Grades,AIM,ELA,Cross Student Group - N<10,,,18.20%,0.363636364,0.454545455,0.181818182,0.0,0.181818182,0.0,1.0
+2023-24,Walla Walla Public Schools,Gender,Male,All Grades,AIM,Math,Cross Student Group - N<10,,,18.20%,0.090909091,0.727272727,0.136363636,0.045454545,0.181818182,0.0,
+2023-24,Walla Walla Public Schools,Gender,Male,All Grades,SBAC,ELA,,"1,364",529,38.80%,0.362170088,0.195014663,0.224340176,0.163489736,0.410395656,0.054985337,0.945014663
+2023-24,Walla Walla Public Schools,Migrant,Migrant,03,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Migrant,03,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Migrant,04,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Migrant,04,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Migrant,05,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Migrant,05,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Migrant,06,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Migrant,06,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Migrant,07,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Migrant,07,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Migrant,08,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Migrant,08,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Migrant,10,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Migrant,10,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Migrant,All Grades,SBAC,ELA,<8%,,,<8%,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Migrant,All Grades,SBAC,Math,<8%,,,<8%,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,03,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,03,SBAC,Math,Cross Student Group - N<10,,,45.20%,0.311239193,0.216138329,0.221902017,0.23054755,0.461764706,0.020172911,0.979827089
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,03,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,03,SBAC,ELA,Cross Student Group - N<10,,,34.90%,0.406340058,0.224783862,0.172910663,0.175792507,0.355882353,0.020172911,0.979827089
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,04,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,04,SBAC,Math,Cross Student Group - N<10,,,44.40%,0.246612466,0.279132791,0.192411924,0.25203252,0.458100559,0.029810298,0.970189702
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,04,SBAC,ELA,Cross Student Group - N<10,,,37.70%,0.401084011,0.192411924,0.184281843,0.192411924,0.388268156,0.029810298,0.970189702
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,04,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,05,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,05,SBAC,ELA,Cross Student Group - N<10,,,44.40%,0.315926893,0.206266319,0.237597911,0.206266319,0.459459459,0.033942559,0.966057441
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,05,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,05,SBAC,Math,Cross Student Group - N<10,,,39.40%,0.323759791,0.248041775,0.169712794,0.224543081,0.408108108,0.033942559,0.966057441
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,06,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,06,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,06,SBAC,ELA,Cross Student Group - N<10,,,37.50%,0.326145553,0.239892183,0.234501348,0.140161725,0.398280802,0.059299191,0.940700809
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,06,SBAC,Math,Cross Student Group - N<10,,,31.00%,0.396226415,0.239892183,0.15902965,0.150943396,0.327635328,0.053908356,0.946091644
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,07,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,07,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,07,SBAC,ELA,Cross Student Group - N<10,,,45.90%,0.306629834,0.198895028,0.284530387,0.174033149,0.475644699,0.035911602,0.964088398
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,07,SBAC,Math,Cross Student Group - N<10,,,35.00%,0.38292011,0.239669421,0.157024793,0.192837466,0.359773371,0.027548209,0.972451791
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,08,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,08,SBAC,ELA,Cross Student Group - N<10,,,43.90%,0.284530387,0.212707182,0.287292818,0.151933702,0.469026549,0.063535912,0.936464088
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,08,SBAC,Math,Cross Student Group - N<10,,,31.40%,0.41322314,0.212121212,0.143250689,0.170798898,0.33431085,0.060606061,0.939393939
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,08,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,10,SBAC,ELA,Cross Student Group - N<10,,,58.30%,0.171052632,0.173245614,0.307017544,0.276315789,0.628841608,0.072368421,0.927631579
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,10,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,10,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,10,SBAC,Math,Cross Student Group - N<10,,,27.80%,0.43107221,0.210065646,0.161925602,0.115973742,0.302380952,0.080962801,0.919037199
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,All Grades,AIM,ELA,,31,5,16.10%,0.35483871,0.483870968,0.161290323,0.0,0.161290323,0.0,1.0
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,All Grades,AIM,Math,,31,5,16.10%,0.096774194,0.741935484,0.129032258,0.032258065,0.161290323,0.0,1.0
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,All Grades,SBAC,ELA,Cross Student Group - Top/Bottom,,,43.80%,0.310566038,0.205660377,0.246415094,0.191320755,0.458860759,0.046037736,0.953962264
+2023-24,Walla Walla Public Schools,Migrant,Non Migrant,All Grades,SBAC,Math,Cross Student Group - Top/Bottom,,,36.00%,0.360346777,0.234451564,0.171503958,0.188465888,0.377023293,0.045231813,0.954768187
+2023-24,Walla Walla Public Schools,Military,Military Parent,03,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Military Parent,03,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Military Parent,04,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Military Parent,04,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Military Parent,05,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Military Parent,05,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Military Parent,06,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Military Parent,06,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Military Parent,07,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Military Parent,07,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Military Parent,08,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Military Parent,08,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Military Parent,10,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Military Parent,10,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Military Parent,All Grades,SBAC,ELA,,29,12,41.40%,0.344827586,0.206896552,0.137931034,0.275862069,0.428571429,0.034482759,0.965517241
+2023-24,Walla Walla Public Schools,Military,Military Parent,All Grades,SBAC,Math,,29,16,55.20%,0.24137931,0.172413793,0.206896552,0.344827586,0.571428571,0.034482759,0.965517241
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,03,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,03,SBAC,Math,Cross Student Group - N<10,,,44.30%,0.317784257,0.221574344,0.21574344,0.227405248,0.451038576,0.017492711,0.982507289
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,03,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,03,SBAC,ELA,Cross Student Group - N<10,,,34.10%,0.416909621,0.224489796,0.16909621,0.172011662,0.347181009,0.017492711,0.982507289
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,04,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,04,SBAC,Math,Cross Student Group - N<10,,,43.80%,0.255376344,0.27688172,0.190860215,0.247311828,0.451523546,0.029569892,0.970430108
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,04,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,04,SBAC,ELA,Cross Student Group - N<10,,,37.10%,0.405913978,0.193548387,0.182795699,0.188172043,0.382271468,0.029569892,0.970430108
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,05,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,05,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,05,SBAC,ELA,Cross Student Group - N<10,,,43.60%,0.321148825,0.208877285,0.237597911,0.19843342,0.451351351,0.033942559,0.966057441
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,05,SBAC,Math,Cross Student Group - N<10,,,38.60%,0.331592689,0.248041775,0.169712794,0.216710183,0.4,0.033942559,0.966057441
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,06,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,06,SBAC,ELA,Cross Student Group - N<10,,,37.10%,0.330645161,0.23655914,0.231182796,0.139784946,0.395415473,0.061827957,0.938172043
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,06,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,06,SBAC,Math,Cross Student Group - N<10,,,30.40%,0.403225806,0.239247312,0.155913978,0.147849462,0.321022727,0.053763441,0.946236559
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,07,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,07,SBAC,ELA,Cross Student Group - N<10,,,45.30%,0.31043956,0.200549451,0.282967033,0.17032967,0.47008547,0.035714286,0.964285714
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,07,SBAC,Math,Cross Student Group - N<10,,,34.50%,0.383561644,0.243835616,0.156164384,0.189041096,0.354929577,0.02739726,0.97260274
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,07,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,08,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,08,SBAC,ELA,Cross Student Group - N<10,,,43.40%,0.295081967,0.207650273,0.284153005,0.150273224,0.463556851,0.06284153,0.93715847
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,08,SBAC,Math,Cross Student Group - N<10,,,30.80%,0.422343324,0.209809264,0.138964578,0.16893733,0.327536232,0.059945504,0.940054496
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,08,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,10,SBAC,ELA,Cross Student Group - N<10,,,57.70%,0.176470588,0.17211329,0.302832244,0.274509804,0.623529412,0.074074074,0.925925926
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,10,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,10,SBAC,Math,Cross Student Group - N<10,,,27.40%,0.436956522,0.206521739,0.163043478,0.110869565,0.298578199,0.082608696,0.917391304
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,10,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,All Grades,AIM,Math,,31,5,16.10%,0.096774194,0.741935484,0.129032258,0.032258065,0.161290323,0.0,1.0
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,All Grades,SBAC,ELA,,"2,659","1,149",43.20%,0.316660399,0.204964272,0.244076721,0.188040617,0.45307571,0.046257992,0.953742008
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,All Grades,AIM,ELA,,31,5,16.10%,0.35483871,0.483870968,0.161290323,0.0,0.161290323,0.0,1.0
+2023-24,Walla Walla Public Schools,Military,Non Military Parent,All Grades,SBAC,Math,,"2,662",941,35.40%,0.36701728,0.234410218,0.169421488,0.184072126,0.37018096,0.045078888,0.954921112
+2023-24,Walla Walla Public Schools,Race,American Indian/ Alaskan Native,03,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,American Indian/ Alaskan Native,03,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,American Indian/ Alaskan Native,04,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,American Indian/ Alaskan Native,04,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,American Indian/ Alaskan Native,05,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,American Indian/ Alaskan Native,05,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,American Indian/ Alaskan Native,07,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,American Indian/ Alaskan Native,07,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,American Indian/ Alaskan Native,08,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,American Indian/ Alaskan Native,08,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,American Indian/ Alaskan Native,08,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,American Indian/ Alaskan Native,08,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,American Indian/ Alaskan Native,10,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,American Indian/ Alaskan Native,10,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,American Indian/ Alaskan Native,All Grades,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,American Indian/ Alaskan Native,All Grades,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,American Indian/ Alaskan Native,All Grades,SBAC,ELA,Cross Student Group - N<10,,,38.50%,0.384615385,0.230769231,0.230769231,0.153846154,0.384615385,0.0,1.0
+2023-24,Walla Walla Public Schools,Race,American Indian/ Alaskan Native,All Grades,SBAC,Math,Cross Student Group - N<10,,,30.80%,0.307692308,0.384615385,0.076923077,0.230769231,0.307692308,0.0,1.0
+2023-24,Walla Walla Public Schools,Race,Asian,03,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Asian,03,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Asian,04,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Asian,04,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Asian,05,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Asian,05,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Asian,06,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Asian,06,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Asian,07,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Asian,07,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Asian,08,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Asian,08,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Asian,10,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Asian,10,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Asian,All Grades,SBAC,ELA,,31,18,58.10%,0.225806452,0.129032258,0.258064516,0.322580645,0.620689655,0.064516129,0.935483871
+2023-24,Walla Walla Public Schools,Race,Asian,All Grades,SBAC,Math,,31,18,58.10%,0.129032258,0.225806452,0.193548387,0.387096774,0.620689655,0.064516129,0.935483871
+2023-24,Walla Walla Public Schools,Race,Black/ African American,03,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Black/ African American,03,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Black/ African American,04,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Black/ African American,04,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Black/ African American,05,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Black/ African American,05,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Black/ African American,06,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Black/ African American,06,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Black/ African American,07,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Black/ African American,07,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Black/ African American,08,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Black/ African American,08,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Black/ African American,10,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Black/ African American,10,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Black/ African American,All Grades,SBAC,ELA,,29,10,34.50%,0.206896552,0.344827586,0.275862069,0.068965517,0.384615385,0.103448276,0.896551724
+2023-24,Walla Walla Public Schools,Race,Black/ African American,All Grades,SBAC,Math,,29,9,31.00%,0.344827586,0.24137931,0.172413793,0.137931034,0.346153846,0.103448276,0.896551724
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),03,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),03,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),03,SBAC,Math,,145,34,23.50%,0.496551724,0.248275862,0.124137931,0.110344828,0.23943662,0.020689655,0.979310345
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),03,SBAC,ELA,,145,28,19.30%,0.572413793,0.213793103,0.131034483,0.062068966,0.197183099,0.020689655,0.979310345
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),04,SBAC,Math,,160,40,25.00%,0.38125,0.34375,0.1375,0.1125,0.256410256,0.025,0.975
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),04,SBAC,ELA,,160,29,18.10%,0.59375,0.2,0.125,0.05625,0.185897436,0.025,0.975
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),04,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),04,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),05,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),05,SBAC,Math,,166,40,24.10%,0.463855422,0.28313253,0.108433735,0.13253012,0.243902439,0.012048193,0.987951807
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),05,SBAC,ELA,,166,48,28.90%,0.427710843,0.271084337,0.174698795,0.114457831,0.292682927,0.012048193,0.987951807
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),05,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),06,SBAC,ELA,,182,43,23.60%,0.445054945,0.247252747,0.17032967,0.065934066,0.25443787,0.071428571,0.928571429
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),06,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),06,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),06,SBAC,Math,,182,31,17.00%,0.505494505,0.263736264,0.115384615,0.054945055,0.18128655,0.06043956,0.93956044
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),07,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),07,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),07,SBAC,ELA,,152,41,27.00%,0.440789474,0.236842105,0.210526316,0.059210526,0.284722222,0.052631579,0.947368421
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),07,SBAC,Math,,152,28,18.40%,0.513157895,0.263157895,0.118421053,0.065789474,0.191780822,0.039473684,0.960526316
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),08,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),08,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),08,SBAC,ELA,,165,44,26.70%,0.393939394,0.284848485,0.212121212,0.054545455,0.282051282,0.054545455,0.945454545
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),08,SBAC,Math,,165,26,15.80%,0.581818182,0.212121212,0.072727273,0.084848485,0.165605096,0.048484848,0.951515152
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),10,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),10,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),10,SBAC,Math,,189,20,10.60%,0.592592593,0.195767196,0.068783069,0.037037037,0.118343195,0.105820106,0.894179894
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),10,SBAC,ELA,,188,76,40.40%,0.287234043,0.212765957,0.265957447,0.138297872,0.447058824,0.095744681,0.904255319
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),All Grades,AIM,ELA,<18%,,,<18%,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),All Grades,AIM,Math,,17,4,23.50%,0.117647059,0.647058824,0.176470588,0.058823529,0.235294118,0.0,
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),All Grades,SBAC,Math,,"1,159",219,18.90%,0.507333909,0.257118205,0.105263158,0.083692839,0.198190045,0.04659189,0.95340811
+2023-24,Walla Walla Public Schools,Race,Hispanic/ Latino of any race(s),All Grades,SBAC,ELA,,"1,158",309,26.70%,0.445595855,0.238341969,0.186528497,0.080310881,0.280653951,0.049222798,0.950777202
+2023-24,Walla Walla Public Schools,Race,Native Hawaiian/ Other Pacific Islander,03,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Native Hawaiian/ Other Pacific Islander,03,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Native Hawaiian/ Other Pacific Islander,05,SBAC,ELA,No Students,,,No Students,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Native Hawaiian/ Other Pacific Islander,05,SBAC,Math,No Students,,,No Students,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Native Hawaiian/ Other Pacific Islander,06,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Native Hawaiian/ Other Pacific Islander,06,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Native Hawaiian/ Other Pacific Islander,07,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Native Hawaiian/ Other Pacific Islander,07,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Native Hawaiian/ Other Pacific Islander,All Grades,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Native Hawaiian/ Other Pacific Islander,All Grades,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,03,SBAC,ELA,,18,11,61.10%,0.166666667,0.222222222,0.277777778,0.333333333,0.611111111,0.0,
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,03,SBAC,Math,,18,12,66.70%,0.111111111,0.222222222,0.111111111,0.555555556,0.666666667,0.0,
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,04,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,04,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,05,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,05,SBAC,ELA,,15,8,53.30%,0.266666667,0.133333333,0.466666667,0.066666667,0.571428571,0.066666667,0.933333333
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,05,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,05,SBAC,Math,,15,6,40.00%,0.333333333,0.2,0.333333333,0.066666667,0.428571429,0.066666667,0.933333333
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,06,SBAC,ELA,Cross Student Group - N<10,,,47.10%,0.117647059,0.411764706,0.294117647,0.176470588,0.470588235,0.0,
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,06,SBAC,Math,Cross Student Group - N<10,,,35.30%,0.411764706,0.235294118,0.176470588,0.176470588,0.352941176,0.0,1.0
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,07,SBAC,ELA,,22,15,68.20%,0.090909091,0.090909091,0.363636364,0.318181818,0.789473684,0.136363636,0.863636364
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,07,SBAC,Math,,22,11,50.00%,0.227272727,0.181818182,0.136363636,0.363636364,0.55,0.090909091,0.909090909
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,08,SBAC,ELA,Cross Student Group - N<10,,,33.30%,0.4,0.266666667,0.2,0.133333333,0.333333333,0.0,1.0
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,08,SBAC,Math,Cross Student Group - N<10,,,26.70%,0.6,0.133333333,0.133333333,0.133333333,0.266666667,0.0,1.0
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,10,SBAC,ELA,,24,17,70.80%,0.041666667,0.208333333,0.375,0.333333333,0.739130435,0.041666667,
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,10,SBAC,Math,,24,11,45.80%,0.25,0.25,0.25,0.208333333,0.47826087,0.041666667,0.958333333
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,All Grades,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,All Grades,SBAC,ELA,,120,67,55.80%,0.175,0.216666667,0.325,0.233333333,0.587719298,0.05,0.95
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,All Grades,SBAC,Math,,120,54,45.00%,0.308333333,0.2,0.191666667,0.258333333,0.469565217,0.041666667,0.958333333
+2023-24,Walla Walla Public Schools,Race,Two Or More Races,All Grades,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,White,03,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,White,03,SBAC,ELA,,174,78,44.80%,0.304597701,0.224137931,0.201149425,0.247126437,0.458823529,0.022988506,0.977011494
+2023-24,Walla Walla Public Schools,Race,White,03,SBAC,Math,,174,104,59.80%,0.183908046,0.195402299,0.32183908,0.275862069,0.611764706,0.022988506,0.977011494
+2023-24,Walla Walla Public Schools,Race,White,03,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,White,04,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,White,04,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,White,04,SBAC,Math,,199,119,59.80%,0.150753769,0.221105528,0.236180905,0.361809045,0.616580311,0.030150754,0.969849246
+2023-24,Walla Walla Public Schools,Race,White,04,SBAC,ELA,,199,105,52.80%,0.266331658,0.175879397,0.226130653,0.301507538,0.544041451,0.030150754,0.969849246
+2023-24,Walla Walla Public Schools,Race,White,05,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,White,05,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,White,05,SBAC,ELA,,195,107,54.90%,0.241025641,0.164102564,0.261538462,0.287179487,0.575268817,0.046153846,0.953846154
+2023-24,Walla Walla Public Schools,Race,White,05,SBAC,Math,,195,99,50.80%,0.215384615,0.230769231,0.215384615,0.292307692,0.532258065,0.046153846,0.953846154
+2023-24,Walla Walla Public Schools,Race,White,06,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,White,06,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,White,06,SBAC,ELA,,166,85,51.20%,0.234939759,0.198795181,0.295180723,0.21686747,0.541401274,0.054216867,0.945783133
+2023-24,Walla Walla Public Schools,Race,White,06,SBAC,Math,,166,75,45.20%,0.295180723,0.204819277,0.198795181,0.253012048,0.474683544,0.048192771,0.951807229
+2023-24,Walla Walla Public Schools,Race,White,07,SBAC,ELA,,181,104,57.50%,0.226519337,0.187845304,0.325966851,0.248618785,0.581005587,0.011049724,0.988950276
+2023-24,Walla Walla Public Schools,Race,White,07,SBAC,Math,,182,82,45.10%,0.307692308,0.230769231,0.17032967,0.28021978,0.455555556,0.010989011,0.989010989
+2023-24,Walla Walla Public Schools,Race,White,08,SBAC,ELA,,180,107,59.40%,0.2,0.133333333,0.355555556,0.238888889,0.640718563,0.072222222,0.927777778
+2023-24,Walla Walla Public Schools,Race,White,08,SBAC,Math,,181,80,44.20%,0.270718232,0.215469613,0.20441989,0.237569061,0.476190476,0.071823204,0.928176796
+2023-24,Walla Walla Public Schools,Race,White,08,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,White,08,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,White,10,SBAC,ELA,,238,165,69.30%,0.109243697,0.142857143,0.31512605,0.378151261,0.733333333,0.054621849,0.945378151
+2023-24,Walla Walla Public Schools,Race,White,10,SBAC,Math,,238,93,39.10%,0.336134454,0.210084034,0.222689076,0.168067227,0.417040359,0.06302521,0.93697479
+2023-24,Walla Walla Public Schools,Race,White,10,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,White,10,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,Race,White,All Grades,AIM,ELA,Cross Student Group - N<10,,,33.30%,0.416666667,0.25,0.333333333,0.0,0.333333333,0.0,1.0
+2023-24,Walla Walla Public Schools,Race,White,All Grades,AIM,Math,<25%,,,<25%,,,,,,,
+2023-24,Walla Walla Public Schools,Race,White,All Grades,SBAC,ELA,,"1,333",751,56.30%,0.221305326,0.173293323,0.283570893,0.279819955,0.588097103,0.042010503,0.957989497
+2023-24,Walla Walla Public Schools,Race,White,All Grades,SBAC,Math,,"1,335",652,48.80%,0.253183521,0.215730337,0.223970037,0.264419476,0.510172144,0.042696629,0.957303371
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,03,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,03,SBAC,ELA,,76,15,19.70%,0.618421053,0.171052632,0.052631579,0.144736842,0.2,0.013157895,0.986842105
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,03,SBAC,Math,,76,21,27.60%,0.539473684,0.171052632,0.131578947,0.144736842,0.28,0.013157895,0.986842105
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,03,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,04,SBAC,Math,,74,7,9.50%,0.594594595,0.22972973,0.027027027,0.067567568,0.102941176,0.081081081,0.918918919
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,04,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,04,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,04,SBAC,ELA,,74,6,8.10%,0.743243243,0.094594595,0.040540541,0.040540541,0.088235294,0.081081081,0.918918919
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,05,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,05,SBAC,Math,,64,10,15.60%,0.640625,0.140625,0.046875,0.109375,0.166666667,0.0625,0.9375
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,05,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,05,SBAC,ELA,,64,12,18.80%,0.59375,0.15625,0.09375,0.09375,0.2,0.0625,0.9375
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,06,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,06,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,06,SBAC,Math,<5%,,,4.90%,0.68852459,0.131147541,0.032786885,0.016393443,0.056603774,0.131147541,
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,06,SBAC,ELA,<5%,,,4.90%,0.639344262,0.180327869,0.032786885,0.016393443,0.056603774,0.131147541,
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,07,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,07,SBAC,Math,<5%,,,5.00%,,,,,,,
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,07,SBAC,ELA,,60,5,8.30%,0.683333333,0.15,0.066666667,0.016666667,0.090909091,0.083333333,0.916666667
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,07,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,08,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,08,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,08,SBAC,Math,,58,4,6.90%,0.672413793,0.051724138,0.068965517,0.0,0.086956522,0.206896552,0.793103448
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,08,SBAC,ELA,<5%,,,5.20%,0.534482759,0.189655172,0.051724138,0.0,0.066666667,0.224137931,
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,10,SBAC,ELA,,59,7,11.90%,0.474576271,0.220338983,0.118644068,0.0,0.145833333,0.186440678,0.813559322
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,10,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,10,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,10,SBAC,Math,<5%,,,<5%,,,,,,,
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,All Grades,AIM,Math,,31,5,16.10%,0.096774194,0.741935484,0.129032258,0.032258065,0.161290323,0.0,1.0
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,All Grades,SBAC,ELA,,452,51,11.30%,0.617256637,0.163716814,0.064159292,0.048672566,0.126237624,0.10619469,0.89380531
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,All Grades,SBAC,Math,,452,50,11.10%,0.659292035,0.128318584,0.053097345,0.057522124,0.123152709,0.101769912,0.898230088
+2023-24,Walla Walla Public Schools,SWD,Students with Disabilities,All Grades,AIM,ELA,,31,5,16.10%,0.35483871,0.483870968,0.161290323,0.0,0.161290323,0.0,1.0
+2023-24,Walla Walla Public Schools,SWD,Students without Disabilities,03,SBAC,ELA,,274,106,38.70%,0.354014599,0.237226277,0.204379562,0.182481752,0.395522388,0.02189781,0.97810219
+2023-24,Walla Walla Public Schools,SWD,Students without Disabilities,03,SBAC,Math,,274,136,49.60%,0.251824818,0.229927007,0.244525547,0.251824818,0.507462687,0.02189781,0.97810219
+2023-24,Walla Walla Public Schools,SWD,Students without Disabilities,04,SBAC,ELA,,302,133,44.00%,0.32781457,0.215231788,0.215231788,0.225165563,0.447811448,0.016556291,0.983443709
+2023-24,Walla Walla Public Schools,SWD,Students without Disabilities,04,SBAC,Math,,302,158,52.30%,0.17218543,0.28807947,0.231788079,0.291390728,0.531986532,0.016556291,0.983443709
+2023-24,Walla Walla Public Schools,SWD,Students without Disabilities,05,SBAC,ELA,,325,158,48.60%,0.267692308,0.218461538,0.261538462,0.224615385,0.5,0.027692308,0.972307692
+2023-24,Walla Walla Public Schools,SWD,Students without Disabilities,05,SBAC,Math,,325,141,43.40%,0.267692308,0.270769231,0.190769231,0.243076923,0.446202532,0.027692308,0.972307692
+2023-24,Walla Walla Public Schools,SWD,Students without Disabilities,06,SBAC,ELA,Cross Student Group - Top/Bottom,,,43.50%,0.268370607,0.249201278,0.271565495,0.162939297,0.456375839,0.047923323,0.952076677
+2023-24,Walla Walla Public Schools,SWD,Students without Disabilities,06,SBAC,Math,Cross Student Group - Top/Bottom,,,35.80%,0.345047923,0.258785942,0.182108626,0.17571885,0.372093023,0.038338658,0.961661342
+2023-24,Walla Walla Public Schools,SWD,Students without Disabilities,07,SBAC,ELA,,307,161,52.40%,0.241042345,0.208469055,0.32247557,0.201954397,0.538461538,0.026058632,0.973941368
+2023-24,Walla Walla Public Schools,SWD,Students without Disabilities,07,SBAC,Math,Cross Student Group - Top/Bottom,,,40.30%,0.314935065,0.266233766,0.178571429,0.224025974,0.409240924,0.016233766,0.983766234
+2023-24,Walla Walla Public Schools,SWD,Students without Disabilities,08,SBAC,ELA,Cross Student Group - Top/Bottom,,,50.20%,0.250803859,0.215434084,0.324758842,0.176848875,0.518272425,0.032154341,0.967845659
+2023-24,Walla Walla Public Schools,SWD,Students without Disabilities,08,SBAC,Math,,312,110,35.30%,0.375,0.240384615,0.153846154,0.198717949,0.364238411,0.032051282,0.967948718
+2023-24,Walla Walla Public Schools,SWD,Students without Disabilities,10,SBAC,Math,Cross Student Group - Top/Bottom,,,31.10%,0.385185185,0.234567901,0.182716049,0.128395062,0.334217507,0.069135802,0.930864198
+2023-24,Walla Walla Public Schools,SWD,Students without Disabilities,10,SBAC,ELA,,404,260,64.40%,0.133663366,0.165841584,0.329207921,0.314356436,0.682414698,0.056930693,0.943069307
+2023-24,Walla Walla Public Schools,SWD,Students without Disabilities,All Grades,SBAC,ELA,,"2,236","1,110",49.60%,0.256261181,0.21332737,0.279069767,0.217352415,0.513888889,0.033989267,0.966010733
+2023-24,Walla Walla Public Schools,SWD,Students without Disabilities,All Grades,SBAC,Math,,"2,239",907,40.50%,0.30638678,0.255024565,0.193389906,0.211701653,0.419131238,0.033497097,0.966502903
+2023-24,Walla Walla Public Schools,homeless,Homeless,03,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Homeless,03,SBAC,ELA,<30%,,,<30%,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Homeless,03,SBAC,Math,<30%,,,<30%,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Homeless,03,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Homeless,04,SBAC,ELA,<20%,,,20.00%,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Homeless,04,SBAC,Math,,15,4,26.70%,0.466666667,0.133333333,0.2,0.066666667,0.307692308,0.133333333,0.866666667
+2023-24,Walla Walla Public Schools,homeless,Homeless,05,SBAC,ELA,<25%,,,25.00%,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Homeless,05,SBAC,Math,<25%,,,25.00%,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Homeless,06,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Homeless,06,SBAC,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Homeless,06,SBAC,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Homeless,06,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Homeless,07,SBAC,ELA,,12,4,33.30%,0.25,0.333333333,0.333333333,0.0,0.363636364,0.083333333,0.916666667
+2023-24,Walla Walla Public Schools,homeless,Homeless,07,SBAC,Math,<25%,,,25.00%,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Homeless,08,SBAC,ELA,<30%,,,30.00%,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Homeless,08,SBAC,Math,<30%,,,30.00%,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Homeless,10,SBAC,ELA,<25%,,,25.00%,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Homeless,10,SBAC,Math,<25%,,,<25%,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Homeless,All Grades,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Homeless,All Grades,SBAC,Math,,78,16,20.50%,0.525641026,0.179487179,0.128205128,0.076923077,0.225352113,0.08974359,0.91025641
+2023-24,Walla Walla Public Schools,homeless,Homeless,All Grades,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Homeless,All Grades,SBAC,ELA,,78,21,26.90%,0.435897436,0.217948718,0.217948718,0.051282051,0.291666667,0.076923077,0.923076923
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,03,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,03,SBAC,Math,Cross Student Group - Top/Bottom,,,45.90%,0.305882353,0.214705882,0.223529412,0.235294118,0.468468468,0.020588235,0.979411765
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,03,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,03,SBAC,ELA,Cross Student Group - Top/Bottom,,,35.00%,0.405882353,0.223529412,0.170588235,0.179411765,0.357357357,0.020588235,0.979411765
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,04,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,04,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,04,SBAC,ELA,Cross Student Group - Top/Bottom,,,37.70%,0.407202216,0.191135734,0.180055402,0.1966759,0.386363636,0.024930748,0.975069252
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,04,SBAC,Math,,361,161,44.60%,0.246537396,0.282548476,0.191135734,0.254847645,0.457386364,0.024930748,0.975069252
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,05,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,05,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,05,SBAC,ELA,Cross Student Group - Top/Bottom,,,44.30%,0.323607427,0.201591512,0.236074271,0.206896552,0.457534247,0.031830239,0.968169761
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,05,SBAC,Math,Cross Student Group - Top/Bottom,,,39.30%,0.323607427,0.25198939,0.167108753,0.225464191,0.405479452,0.031830239,0.968169761
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,06,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,06,SBAC,Math,Cross Student Group - N<10,,,30.80%,0.395095368,0.242506812,0.158038147,0.14986376,0.325648415,0.054495913,0.945504087
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,06,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,06,SBAC,ELA,Cross Student Group - N<10,,,37.10%,0.326975477,0.239782016,0.231607629,0.138964578,0.395348837,0.0626703,0.9373297
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,07,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,07,SBAC,ELA,,355,162,45.60%,0.315492958,0.194366197,0.278873239,0.177464789,0.472303207,0.033802817,0.966197183
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,07,SBAC,Math,Cross Student Group - Top/Bottom,,,34.80%,0.387640449,0.238764045,0.154494382,0.193820225,0.357348703,0.025280899,0.974719101
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,07,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,08,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,08,SBAC,ELA,Cross Student Group - Top/Bottom,,,43.50%,0.289693593,0.21448468,0.284122563,0.150417827,0.462908012,0.061281337,0.938718663
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,08,SBAC,Math,Cross Student Group - Top/Bottom,,,30.80%,0.419444444,0.213888889,0.141666667,0.166666667,0.327433628,0.058333333,0.941666667
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,08,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,10,SBAC,ELA,Cross Student Group - Top/Bottom,,,58.50%,0.166297118,0.175166297,0.305986696,0.279379157,0.631578947,0.073170732,0.926829268
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,10,SBAC,Math,Cross Student Group - Top/Bottom,,,28.30%,0.42920354,0.207964602,0.165929204,0.117256637,0.307692308,0.079646018,0.920353982
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,10,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,10,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,All Grades,AIM,ELA,Cross Student Group - N<10,,,13.80%,0.344827586,0.517241379,0.137931034,0.0,0.137931034,0.0,1.0
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,All Grades,AIM,Math,Cross Student Group - N<10,,,13.80%,0.103448276,0.75862069,0.103448276,0.034482759,0.137931034,0.0,1.0
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,All Grades,SBAC,ELA,,"2,610","1,140",43.70%,0.313409962,0.204597701,0.243678161,0.193103448,0.457463884,0.045210728,0.954789272
+2023-24,Walla Walla Public Schools,homeless,Non-Homeless,All Grades,SBAC,Math,,"2,613",941,36.00%,0.360887868,0.235361653,0.171067738,0.189054726,0.37655062,0.043628014,0.956371986
+2023-24,Walla Walla Public Schools,s504,Non Section 504,03,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,s504,Non Section 504,03,SBAC,ELA,,339,116,34.20%,0.410029499,0.227138643,0.168141593,0.174041298,0.34939759,0.020648968,0.979351032
+2023-24,Walla Walla Public Schools,s504,Non Section 504,03,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,s504,Non Section 504,03,SBAC,Math,,339,151,44.50%,0.318584071,0.215339233,0.212389381,0.233038348,0.454819277,0.020648968,0.979351032
+2023-24,Walla Walla Public Schools,s504,Non Section 504,04,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,s504,Non Section 504,04,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,s504,Non Section 504,04,SBAC,ELA,,358,133,37.20%,0.418994413,0.187150838,0.17877095,0.19273743,0.38,0.022346369,0.977653631
+2023-24,Walla Walla Public Schools,s504,Non Section 504,04,SBAC,Math,,358,161,45.00%,0.25698324,0.270949721,0.201117318,0.248603352,0.46,0.022346369,0.977653631
+2023-24,Walla Walla Public Schools,s504,Non Section 504,05,SBAC,ELA,,366,158,43.20%,0.322404372,0.210382514,0.232240437,0.199453552,0.447592068,0.035519126,0.964480874
+2023-24,Walla Walla Public Schools,s504,Non Section 504,05,SBAC,Math,,366,140,38.30%,0.333333333,0.24863388,0.158469945,0.224043716,0.396600567,0.035519126,0.964480874
+2023-24,Walla Walla Public Schools,s504,Non Section 504,05,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,s504,Non Section 504,05,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,s504,Non Section 504,06,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,s504,Non Section 504,06,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,s504,Non Section 504,06,SBAC,ELA,,343,133,38.80%,0.329446064,0.2303207,0.247813411,0.139941691,0.409230769,0.052478134,0.947521866
+2023-24,Walla Walla Public Schools,s504,Non Section 504,06,SBAC,Math,,343,108,31.50%,0.393586006,0.241982507,0.157434402,0.157434402,0.331288344,0.049562682,0.950437318
+2023-24,Walla Walla Public Schools,s504,Non Section 504,07,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,s504,Non Section 504,07,SBAC,ELA,,348,160,46.00%,0.310344828,0.195402299,0.290229885,0.16954023,0.476190476,0.034482759,0.965517241
+2023-24,Walla Walla Public Schools,s504,Non Section 504,07,SBAC,Math,,349,121,34.70%,0.378223496,0.246418338,0.157593123,0.189111748,0.356932153,0.028653295,0.971346705
+2023-24,Walla Walla Public Schools,s504,Non Section 504,07,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,s504,Non Section 504,08,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,s504,Non Section 504,08,SBAC,ELA,,343,145,42.30%,0.297376093,0.212827988,0.279883382,0.142857143,0.453125,0.067055394,0.932944606
+2023-24,Walla Walla Public Schools,s504,Non Section 504,08,SBAC,Math,,344,103,29.90%,0.427325581,0.209302326,0.13372093,0.165697674,0.319875776,0.063953488,0.936046512
+2023-24,Walla Walla Public Schools,s504,Non Section 504,08,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,s504,Non Section 504,10,AIM,ELA,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,s504,Non Section 504,10,AIM,Math,N<10,,,N<10,,,,,,,
+2023-24,Walla Walla Public Schools,s504,Non Section 504,10,SBAC,Math,,416,117,28.10%,0.432692308,0.206730769,0.161057692,0.120192308,0.305483029,0.079326923,0.920673077
+2023-24,Walla Walla Public Schools,s504,Non Section 504,10,SBAC,ELA,,415,238,57.40%,0.185542169,0.168674699,0.306024096,0.26746988,0.618181818,0.072289157,0.927710843
+2023-24,Walla Walla Public Schools,s504,Non Section 504,All Grades,AIM,ELA,,31,5,16.10%,0.35483871,0.483870968,0.161290323,0.0,0.161290323,0.0,1.0
+2023-24,Walla Walla Public Schools,s504,Non Section 504,All Grades,SBAC,ELA,,"2,512","1,083",43.10%,0.321257962,0.203423567,0.244824841,0.186305732,0.451062057,0.044187898,0.955812102
+2023-24,Walla Walla Public Schools,s504,Non Section 504,All Grades,SBAC,Math,,"2,515",901,35.80%,0.364214712,0.233797217,0.168588469,0.189662028,0.374636175,0.043737575,0.956262425
+2023-24,Walla Walla Public Schools,s504,Non Section 504,All Grades,AIM,Math,,31,5,16.10%,0.096774194,0.741935484,0.129032258,0.032258065,0.161290323,0.0,1.0
+2023-24,Walla Walla Public Schools,s504,Section 504,03,SBAC,Math,,11,6,54.60%,0.181818182,0.272727273,0.454545455,0.090909091,0.545454545,0.0,
+2023-24,Walla Walla Public Schools,s504,Section 504,03,SBAC,ELA,,11,5,45.50%,0.454545455,0.090909091,0.272727273,0.181818182,0.454545455,0.0,1.0
+2023-24,Walla Walla Public Schools,s504,Section 504,04,SBAC,ELA,,18,6,33.30%,0.222222222,0.277777778,0.222222222,0.111111111,0.4,0.166666667,0.833333333
+2023-24,Walla Walla Public Schools,s504,Section 504,04,SBAC,Math,,18,4,22.20%,0.222222222,0.388888889,0.0,0.222222222,0.266666667,0.166666667,0.833333333
+2023-24,Walla Walla Public Schools,s504,Section 504,05,SBAC,ELA,,23,12,52.20%,0.304347826,0.173913043,0.260869565,0.260869565,0.52173913,0.0,1.0
+2023-24,Walla Walla Public Schools,s504,Section 504,05,SBAC,Math,,23,11,47.80%,0.260869565,0.260869565,0.304347826,0.173913043,0.47826087,0.0,1.0
+2023-24,Walla Walla Public Schools,s504,Section 504,06,SBAC,Math,,31,7,22.60%,0.483870968,0.193548387,0.161290323,0.064516129,0.25,0.096774194,0.903225806
+2023-24,Walla Walla Public Schools,s504,Section 504,06,SBAC,ELA,,31,6,19.40%,0.322580645,0.322580645,0.064516129,0.129032258,0.230769231,0.161290323,0.838709677
+2023-24,Walla Walla Public Schools,s504,Section 504,07,SBAC,ELA,,19,6,31.60%,0.368421053,0.263157895,0.105263158,0.210526316,0.333333333,0.052631579,0.947368421
+2023-24,Walla Walla Public Schools,s504,Section 504,07,SBAC,Math,,19,6,31.60%,0.526315789,0.157894737,0.105263158,0.210526316,0.315789474,0.0,1.0
+2023-24,Walla Walla Public Schools,s504,Section 504,08,SBAC,ELA,,26,14,53.90%,0.269230769,0.192307692,0.307692308,0.230769231,0.538461538,0.0,1.0
+2023-24,Walla Walla Public Schools,s504,Section 504,08,SBAC,Math,,26,11,42.30%,0.346153846,0.230769231,0.230769231,0.192307692,0.423076923,0.0,1.0
+2023-24,Walla Walla Public Schools,s504,Section 504,10,SBAC,ELA,,48,29,60.40%,0.104166667,0.208333333,0.270833333,0.333333333,0.659090909,0.083333333,0.916666667
+2023-24,Walla Walla Public Schools,s504,Section 504,10,SBAC,Math,,48,11,22.90%,0.458333333,0.208333333,0.166666667,0.0625,0.255813953,0.104166667,0.895833333
+2023-24,Walla Walla Public Schools,s504,Section 504,All Grades,SBAC,ELA,,176,78,44.30%,0.255681818,0.227272727,0.215909091,0.227272727,0.478527607,0.073863636,0.926136364
+2023-24,Walla Walla Public Schools,s504,Section 504,All Grades,SBAC,Math,,176,56,31.80%,0.386363636,0.232954545,0.1875,0.130681818,0.339393939,0.0625,0.9375

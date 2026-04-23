@@ -19,23 +19,30 @@ def process_modern_ospi_data():
     columns_to_keep = [
         'SchoolYear', 
         'DistrictName', 
-        'StudentGroupType',    # e.g., 'Gender', 'ELL', 'All'
-        'StudentGroup',        # e.g., 'Female', 'English Language Learners', 'All Students'
+        'StudentGroupType',    #e.g., 'Gender', 'ELL', 'All'
+        'StudentGroup',        #e.g., 'Female', 'English Language Learners', 'All Students'
         'GradeLevel', 
-        'TestAdministration',  # SBAC vs AIM (Alternative)
-        'TestSubject',         # ELA, Math
+        'TestAdministration',  #SBAC vs AIM (Alternative)
+        'TestSubject',         #ELA, Math
         'DAT',
+        'Suppression', #DAT and Suppression are the SAME THING, just diff years
         'Count of Students Expected to Test', # Your N-Size for weighted averages
         'Count of Students Expected to Test (included previously passed)',
+        'Count of students expected to test including previously passed', #Repeat column again
         'Count Consistent Grade Level Knowledge And Above',
+        'CountMetStandard',
         'Percent Consistent Grade Level Knowledge And Above', # Proficiency Rate
+        'PercentMetStandard',
         'PercentLevel1', 
         'PercentLevel2', 
         'PercentLevel3', 
         'PercentLevel4',
         'Percent Consistent Tested Only',
+        'PercentMetTestedOnly',
         'PercentNoScore',
+        'Percent No Score',
         'PercentParticipation',
+        'Percent Participation',
     ]
 
     for file_path in csv_files:
@@ -60,13 +67,25 @@ def process_modern_ospi_data():
             # We do a list comprehension to avoid KeyErrors if a file is missing a column
             available_cols = [col for col in columns_to_keep if col in df.columns]
             df = df[available_cols]
-            
+
+            COLUMN_MAPPING = {
+                'DAT': 'Suppression',
+                'Count of Students Expected to Test (included previously passed)': 'Count of students expected to test including previously passed',
+                'Count Consistent Grade Level Knowledge And Above': 'CountMetStandard',
+                'Percent Consistent Grade Level Knowledge And Above': 'PercentMetStandard',
+                'Percent Consistent Tested Only': 'PercentMetTestedOnly',
+                'PercentNoScore': 'Percent No Score',
+                'PercentParticipation': 'Percent Participation'
+            }
+            df = df.rename(columns=COLUMN_MAPPING)
             # 5. Clean up the Proficiency column (optional, but makes analysis easier)
             # Sometimes OSPI exports this as a string like "45.5%" or "< 5%". 
             # Leaving it as-is for now, but you will need to handle "< 5%" strings in your analytics model.
 
+            school_year = df['SchoolYear'].iloc[0] if not df.empty else "UnknownYear"
+
             # Save to output
-            output_file = Path(OUTPUT_FOLDER) / f"{TARGET_DISTRICT.replace(' ', '_')}_CLEANED_{file_path.name}"
+            output_file = Path(OUTPUT_FOLDER) / f"WWPS_{school_year}.csv"
             df.to_csv(output_file, index=False)
             
             print(f"Success. Kept {len(df)} rows and {len(df.columns)} columns.\n")
